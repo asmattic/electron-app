@@ -50,6 +50,8 @@ $ yarn
 
 Start the app in the `dev` environment. This starts the renderer process in [**hot-module-replacement**](https://webpack.js.org/guides/hmr-react/) mode and starts a server that sends hot updates to the renderer process:
 
+If `electron-devtools-installer` has permission problems, `chmod +x build` the build directory in the extensions folder.
+
 ```bash
 $ npm run dev
 ```
