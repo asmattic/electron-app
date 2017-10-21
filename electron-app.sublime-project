@@ -1,0 +1,30 @@
+{
+   "folders":
+   [
+      {
+         "file_exclude_patterns":
+         [
+            "package-lock.json",
+            "LICENSE",
+            ".travis.yml",
+            ".gitignore",
+            "CHANGELOG.md",
+            "appveyor.yml",
+            ".stylelintrc",
+            ".gitattributes",
+            ".editorconfig"
+         ],
+         "folder_exclude_patterns":
+         [
+            "node_modules",
+            "flow-typed",
+            "dll"
+         ],
+         "path": "."
+      }
+   ],
+   "settings":
+   {
+      "tab_size": 3
+   }
+}
