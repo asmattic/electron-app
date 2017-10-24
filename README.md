@@ -2,6 +2,9 @@
 
 ### A Boilerplate for Scalable Cross-Platform Desktop Apps
 
+## Allow chrome extensions build to be +x executable
+## Needs node version higher than 7
+
 <br/>
 
 [![Build Status][travis-image]][travis-url]
