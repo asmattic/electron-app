@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"Ro",
+				"RocketLaunches\t? "
+			],
+			[
+				"r",
+				"react-redux"
+			],
+			[
 				"ext",
 				"extensions"
 			],
@@ -506,14 +514,6 @@
 			[
 				"vertical",
 				"verticalAlign"
-			],
-			[
-				"font",
-				"fontSize"
-			],
-			[
-				"theme",
-				"themeName"
 			]
 		]
 	},
@@ -569,12 +569,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/athsmatic/Desktop/dev/electron/electron-app"
 	],
 	"file_history":
 	[
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/store/configureStore.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/reducer.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/store/configureStore.dev.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/CounterPage.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/home/Home.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/routes.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/rocket-launches/RocketLaunches.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/actions.js",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/electron-app.sublime-project",
+		"/home/athsmatic/Desktop/dev/electron/electron-app/app/store/configureStore.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/store/configureStore.prod.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/.eslintrc",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/app.html",
@@ -585,15 +591,10 @@
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/App.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/Root.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/home/Home.css",
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/actions.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/Counter.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/Counter.css",
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/reducer.js",
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/counter/CounterPage.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/.eslintrc",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/home/HomePage.js",
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/routes.js",
-		"/home/athsmatic/Desktop/dev/electron/electron-app/app/containers/home/Home.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/reducers.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/app/reducers/index.js",
 		"/home/athsmatic/Desktop/dev/electron/electron-app/README.md",
@@ -698,9 +699,7 @@
 		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/api/clients/clients.js",
 		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/conversions/Conversions.js",
 		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/networks/CampaignNetworkRow.js",
-		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/networks/CampaignNetworkTable.js",
-		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/networks/CampaignNetworkSummaryTable.js",
-		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/conversions/ConversionTable.js"
+		"/home/athsmatic/Desktop/dev/mckay/cb-files/cabanalytics/src/containers/campaigns/networks/CampaignNetworkTable.js"
 	],
 	"find":
 	{
@@ -803,7 +802,7 @@
 		[
 			[
 				"",
-				"~/Desktop/dev/mckay/cb-files/cabanalytics/cabanalytics.sublime-project"
+				"~/Desktop/dev/all-projects.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -825,7 +824,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 344.0,
+	"side_bar_width": 308.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
